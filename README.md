@@ -2,4 +2,4 @@
 * Avro
 * Hornet
 
-Git is easy. Git is fun. New found love! 
+*Git is easy. Git is fun. New found love! 
